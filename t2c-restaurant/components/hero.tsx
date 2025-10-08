@@ -79,9 +79,11 @@ export function Hero() {
           <div className="text-center lg:text-left animate-fade-in-up">
             <div className="mb-8">
               <div className="mb-4">
-                <span className="inline-block text-6xl md:text-8xl mt-[90px] text-5xl font-bold text-primary mb-4 tamil-text drop-shadow-lg lg:text-7xl xl:text-8xl">
+               <span className="inline-block mt-[90px] mb-4 font-bold text-primary drop-shadow-lg tamil-text
+                 text-2xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl">
                   வணக்கம்
                 </span>
+
               </div>
 
               <span className="inline-block px-6 py-3 bg-primary/10 text-primary rounded-full text-lg font-medium mb-6 border border-primary/20 font-bold">
